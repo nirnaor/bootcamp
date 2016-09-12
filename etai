@@ -1,0 +1,12 @@
+[ ] Is there a specific ruby version that the project is set to work with.
+[ ] Will it be alright to write in some cases CommonJS modules?
+[ ] There are a lot of packages that are insatlled globally.
+
+
+Tasks
+[x] React (tutorial)
+[x] Lodash
+[x] Promises (& bluebird)
+[x] jasmine
+[x] RequireJS
+[ ] Last - React Templates (+exercises)
